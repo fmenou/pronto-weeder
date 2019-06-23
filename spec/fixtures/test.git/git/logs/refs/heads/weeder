@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 08cc1f13f1d655a7353040edb359c7f3ab7f8bd4 Paul Bonaud <paul.bonaud@fretlink.com> 1555165928 +0200	branch: Created from master
+08cc1f13f1d655a7353040edb359c7f3ab7f8bd4 553b8ba14bc0100f71f0bbe45c7ad29a088f7c15 Paul Bonaud <paul.bonaud@fretlink.com> 1555165977 +0200	commit: Add hs files with hlint errors
+553b8ba14bc0100f71f0bbe45c7ad29a088f7c15 0600daa98c7992ebca9a5c1fb996ed473226c141 Frédéric Menou <frederic.menou@fretlink.com> 1561328355 +0200	commit (amend): Add hs files with hlint errors
+0600daa98c7992ebca9a5c1fb996ed473226c141 4f3b57de53c9dce42dbe8fb211a98488983976e3 Frédéric Menou <frederic.menou@fretlink.com> 1561328393 +0200	commit (amend): Add hs files with hlint errors
+4f3b57de53c9dce42dbe8fb211a98488983976e3 980967ce691d8f3e7a6b9407354c0bdafad4f46e Frédéric Menou <frederic.menou@fretlink.com> 1561328408 +0200	rebase -i (finish): refs/heads/hlint onto bb8026ade94ba679880fd228504c512d4de20411
+980967ce691d8f3e7a6b9407354c0bdafad4f46e c66994a6298ded74d681eb7b42892c381eb70b6d Frédéric Menou <frederic.menou@fretlink.com> 1561328444 +0200	commit (amend): Project with weeder errors
+c66994a6298ded74d681eb7b42892c381eb70b6d c66994a6298ded74d681eb7b42892c381eb70b6d Frédéric Menou <frederic.menou@fretlink.com> 1561328470 +0200	Branch: renamed refs/heads/hlint to refs/heads/weeder
+c66994a6298ded74d681eb7b42892c381eb70b6d 7a06195686a1fc5d897f36c26aa4cec5f0e65afb Frédéric Menou <frederic.menou@fretlink.com> 1561328656 +0200	commit (amend): Project with weeder errors

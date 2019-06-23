@@ -1,0 +1,8 @@
+---
+language: nix
+before_script:
+  - nix-env -iA nixpkgs.haskellPackages.weeder nixpkgs.ruby_2_6
+  - gem install bundler
+script:
+  - bundle install
+  - bundle exec rake spec

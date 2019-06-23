@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 08cc1f13f1d655a7353040edb359c7f3ab7f8bd4 Paul Bonaud <paul.bonaud@fretlink.com> 1555165913 +0200	commit (initial): Initial commit
+08cc1f13f1d655a7353040edb359c7f3ab7f8bd4 08cc1f13f1d655a7353040edb359c7f3ab7f8bd4 Paul Bonaud <paul.bonaud@fretlink.com> 1555165937 +0200	checkout: moving from master to hlint
+08cc1f13f1d655a7353040edb359c7f3ab7f8bd4 553b8ba14bc0100f71f0bbe45c7ad29a088f7c15 Paul Bonaud <paul.bonaud@fretlink.com> 1555165977 +0200	commit: Add hs files with hlint errors
+553b8ba14bc0100f71f0bbe45c7ad29a088f7c15 0600daa98c7992ebca9a5c1fb996ed473226c141 Frédéric Menou <frederic.menou@fretlink.com> 1561328355 +0200	commit (amend): Add hs files with hlint errors
+0600daa98c7992ebca9a5c1fb996ed473226c141 4f3b57de53c9dce42dbe8fb211a98488983976e3 Frédéric Menou <frederic.menou@fretlink.com> 1561328393 +0200	commit (amend): Add hs files with hlint errors
+4f3b57de53c9dce42dbe8fb211a98488983976e3 bb8026ade94ba679880fd228504c512d4de20411 Frédéric Menou <frederic.menou@fretlink.com> 1561328407 +0200	rebase -i (start): checkout bb8026ade94ba679880fd228504c512d4de20411
+bb8026ade94ba679880fd228504c512d4de20411 5025f9dc60aed5344a7a5912da3694dd51f4de1f Frédéric Menou <frederic.menou@fretlink.com> 1561328407 +0200	rebase -i (pick): Add hs files with hlint errors
+5025f9dc60aed5344a7a5912da3694dd51f4de1f 980967ce691d8f3e7a6b9407354c0bdafad4f46e Frédéric Menou <frederic.menou@fretlink.com> 1561328407 +0200	rebase -i (pick): Add hs files with hlint errors
+980967ce691d8f3e7a6b9407354c0bdafad4f46e 980967ce691d8f3e7a6b9407354c0bdafad4f46e Frédéric Menou <frederic.menou@fretlink.com> 1561328408 +0200	rebase -i (finish): returning to refs/heads/hlint
+980967ce691d8f3e7a6b9407354c0bdafad4f46e c66994a6298ded74d681eb7b42892c381eb70b6d Frédéric Menou <frederic.menou@fretlink.com> 1561328444 +0200	commit (amend): Project with weeder errors
+c66994a6298ded74d681eb7b42892c381eb70b6d 7a06195686a1fc5d897f36c26aa4cec5f0e65afb Frédéric Menou <frederic.menou@fretlink.com> 1561328656 +0200	commit (amend): Project with weeder errors
